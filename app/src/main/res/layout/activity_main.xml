@@ -283,6 +283,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:text="@string/dot"
+            android:fontFamily="@font/my_font3"
             android:textColor="@color/white"
             android:textSize="50sp" />
     </androidx.cardview.widget.CardView>
